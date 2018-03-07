@@ -1,0 +1,25 @@
+{
+  "name": "assertthat-type",
+  "version": "0.0.1",
+  "description": "a simple type assertion plugin for assertthat testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaneshSPatil/assertthat-type.git"
+  },
+  "keywords": [
+    "assertthat",
+    "type-assertion",
+    "assertthat-plugin",
+    "plugin"
+  ],
+  "author": "GaneshSPatil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaneshSPatil/assertthat-type/issues"
+  },
+  "homepage": "https://github.com/GaneshSPatil/assertthat-type#readme"
+}
