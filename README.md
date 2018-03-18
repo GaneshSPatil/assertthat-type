@@ -4,7 +4,9 @@ a simple type assertion plugin for assertthat testing framework.
 # Plug-in
 ```
 const assert = require('assertthat');
-require('assertthat-type')(assert);
+const assertType = require('assertthat-type');
+
+assert.use(assertType);
 ```
 
 ## Number
